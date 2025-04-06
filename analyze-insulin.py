@@ -6,7 +6,7 @@
 #    By: jpinedo- <jpinedo-@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/04/03 11:20:31 by jpinedo-          #+#    #+#              #
-#    Updated: 2025/04/04 23:37:24 by jpinedo-         ###   ########.fr        #
+#    Updated: 2025/04/06 23:43:02 by jpinedo-         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -145,5 +145,8 @@ Y formas de mejorar la automatizacion
 		1. Usar input para que el usuario ingrese el nombre del archivo
 		2. Dar formato al nombre del archivo de salida, para diferenciar los archivos
 		3. Tener una lista con los nombres de los archivos de entrada, capturarla y limpiarla usando los puntos anteriores
-Todo depende de la necesidad del usuario y de lo que quieras aprender
+Todo depende de la necesidad del usuario y de lo que quieras aprender.
+---
+Se ha creado el archivo <analyze-insulin2.py>, donde se autmatiza el proceso de entrad y se mejora la logica
+Aun tiene cuarto para mejorar, no esta explicado paso por paso, pero tien enotas en los puntos importantes
 '''
